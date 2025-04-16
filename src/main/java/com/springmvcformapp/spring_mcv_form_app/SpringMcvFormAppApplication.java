@@ -8,6 +8,7 @@ public class SpringMcvFormAppApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringMcvFormAppApplication.class, args);
+		System.out.println("Create Successful******************");
 	}
 
 }
